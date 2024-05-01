@@ -1,6 +1,6 @@
-# Svelte + Vite
+# Link
 
-This template should help get you started developing with Svelte in Vite.
+[This template should help get you started developing with Svelte in Vite.](https://thiago099.github.io/bbcode-papyrus-coloring/)
 
 ## Recommended IDE Setup
 
